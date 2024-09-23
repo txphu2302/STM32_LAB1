@@ -23,6 +23,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "Ex4.h"
+#include "Ex5.h"
 
 /* USER CODE END Includes */
 
@@ -95,9 +96,9 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-	  //TODO Ex4
-	  ex4();
-
+	  //TODO Ex5
+	  displayLED();
+	  ex5();
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
