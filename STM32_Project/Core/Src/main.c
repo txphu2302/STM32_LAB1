@@ -22,6 +22,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include "Ex3.h"
 
 /* USER CODE END Includes */
 
@@ -94,7 +95,8 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
+	  //TODO Ex3
+	  ex3();
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
